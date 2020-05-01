@@ -48,7 +48,7 @@ def jalan(z):
 
 ##### LOGO #####
 logo = """ 
-(  __)\\ ____--------If You Any Problem------_------------•◈•
+(  __)\\ ____-If You Any Problem---•◈•
 |__(~)          •||•CONTACT ME ON WHATSAPP------•◈•
 |__\~~)   •||•---------+923131755646------•◈•
 |__(-----\  
@@ -61,7 +61,7 @@ logo = """
 ░░░╚═╝░░░╚═╝╚═╝░░╚═╝░╚═════╝░╚═════╝░
 |__~~~\ 
 
-\033[1;91m============DON'T WORRY ====================
+\033[1;91m=====DON'T WORRY ======
 CONTACT ME ON WHATSAPP +923131755646
 NAME : CHOTU TRICKER
 
@@ -90,8 +90,9 @@ CONTACT:ME ON WHATSAPP +923131755646
 CHOTU TRICKER 
 
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/TheVirus/Virus
-\033[1;91m=========================="""SUCCESS
-print " \x1b[1;93m=====================TRUSTED============"
+
+Print ===SUCCESS====
+===TRUSTED====
 
 CorrectUsername = "CORONA"
 CorrectPassword = "VIRUS"
