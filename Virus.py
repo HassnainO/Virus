@@ -47,7 +47,7 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = """ -----------------------------•◈•
+logo = """ 
 (  __)\\ ____--------If You Any Problem------_------------•◈•
 |__(~)          •||•CONTACT ME ON WHATSAPP------•◈•
 |__\~~)   •||•---------+923131755646------•◈•
@@ -90,8 +90,8 @@ CONTACT:ME ON WHATSAPP +923131755646
 CHOTU TRICKER 
 
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/TheVirus/Virus
-\033[1;91m======================================="""SUCCESS
-print " \x1b[1;93m======================TRUSTED============"
+\033[1;91m=========================="""SUCCESS
+print " \x1b[1;93m=====================TRUSTED============"
 
 CorrectUsername = "CORONA"
 CorrectPassword = "VIRUS"
