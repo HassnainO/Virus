@@ -4,7 +4,7 @@
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
-from requests.exceptions import ConnectionError
+from requests.exceptions import ConnectionErrorI
 from mechanize import Browser
 
 
@@ -84,14 +84,14 @@ vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
 os.system("clear")
-print "\033[1;96m ============================================================="
-print  """\033[1;91m=======================================
+
+
 CONTACT:ME ON WHATSAPP +923131755646
 CHOTU TRICKER 
 
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/TheVirus/Virus
-\033[1;91m======================================="""
-print " \x1b[1;93m============================================================="
+\033[1;91m======================================="""SUCCESS
+print " \x1b[1;93m======================TRUSTED============"
 
 CorrectUsername = "CORONA"
 CorrectPassword = "VIRUS"
